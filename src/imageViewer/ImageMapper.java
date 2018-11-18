@@ -25,7 +25,8 @@ class ImageMapper {
            "jpg",
            "gif",
            "jpeg",
-           "tif"
+           "tif",
+            "bmp"
         };
     }
     
